@@ -6,6 +6,10 @@ export const languageOptions = [
     value: "en_US",
   },
   {
+    label: "Čeština (Czech)",
+    value: "cs_CZ",
+  },
+  {
     label: "简体中文 (Chinese, Simplified)",
     value: "zh_CN",
   },
