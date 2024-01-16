@@ -1,5 +1,5 @@
 // Note: Updating the available languages? Make sure to also update the
-// locales array in shared/utils/date.ts to enable translation for timestamps.
+// locales array in app/utils/i18n.js to enable translation for timestamps.
 export const languageOptions = [
   {
     label: "English (US)",
@@ -64,6 +64,10 @@ export const languageOptions = [
   {
     label: "فارسی (Persian)",
     value: "fa_IR",
+  },
+  {
+    label: "Pусский (Russian)",
+    value: "ru_RU",
   },
   {
     label: "Svenska (Swedish)",
